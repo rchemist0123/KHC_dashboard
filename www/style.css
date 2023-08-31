@@ -1,0 +1,149 @@
+.skin-blue-light .main-header .logo {
+  background-color: #fede22;
+  color: #000000;
+}
+.skin-blue-light .main-header .logo:hover {
+  background-color: #fede22;
+}
+.skin-blue-light .main-header .navbar {
+  background-color: #fede22;
+}
+.skin-blue-light .main-header .navbar .sidebar-toggle:hover {
+  background-color: #fede22;
+}
+
+
+.tabbable > .nav-pills > li > a {
+  border-radius: 15px;
+}
+
+.tabbable > .nav-pills > li.active > a {
+  background-color: #fede22;
+  border-top-color: #fede22;
+  color: #000000;
+  border-radius: 15px;
+}
+
+.tabbable > .nav-pills > li.active > a:hover {
+  border-top-color: #fede22;
+  color: #000000;
+}
+
+.btn-default {
+  font-size: 16px;
+  border-radius: 21px;
+  width: 100px;
+}
+.btn-default:hover {
+  font-size: 16px;
+  background-color: #FFFFFF;
+  border-radius: 21px;
+}
+.btn-warning {
+  background-color: #fede22;
+  border-color: #fede22;
+}
+.btn-warning:hover {
+  background-color: #F4D000;
+  color: #000000;
+}
+.btn-reset {
+  background-color: #FFFFFF;
+  border-color: #262199;
+}
+.btn-reset:hover {
+  color: #FFFFFF; 
+  background-color: #262199;
+}
+.box-hearder.with-border {
+  justify-content: center;
+  text-align: center;
+}
+
+.box.box-warning {
+  border-top-color: #fede22;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.box.box-warning:hover{
+  margin-top: -2px;
+  box-shadow: 4px 12px 30px 6px rgb(0 0 0 / 9%);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.box.box-solid.box-warning > .box-header {
+  border-top-color: #fede22;
+  background-color: #fede22;
+  color: #000000;
+  border-color: #fede22;
+  justify-content: center;
+  text-align: center;
+}
+
+.box.box-solid.box-warning {
+  border-color: #fede22;
+}
+
+
+.nav-hidden {
+  justify-content: center !important;
+}
+
+.nav-pills {
+  justify-content: center;
+  display: flex;
+}
+
+.tab-content{
+  height: 357px;
+}
+
+#login-button {
+  background-color: #fede22;
+  color: #000000 !important;
+  
+}
+
+#login-button:hover {
+  background-color: #F4D000;
+  color: #000000;
+}
+
+#logout-button {
+  background-color: #fede22;
+  border-color: #000000 !important;
+  color: #000000 !important;
+}
+
+#logout-button:hover {
+  background-color: #000000;
+  border-color: #F4D000;
+  color: #FFFFFF !important;
+  
+}
+
+#form{
+  padding-top: 5%;
+  width: 600px; 
+  max-width: 100%; 
+  margin: 0 auto;
+}
+
+#myBtn {
+  max-width: 100%; 
+  margin: 0 auto;
+}
+
+#tabtab2 #tabtab3 {
+  display:flex;
+  align-items: center;
+  flex-direction:column;
+  margin:auto;
+  text-align:center;
+}
+
+
+/*.div {
+  display: flex;
+}*/
